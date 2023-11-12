@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\bin\Debug\net6.0\ListAndDictionary.exe
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\bin\Debug\net6.0\ListAndDictionary.deps.json
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\bin\Debug\net6.0\ListAndDictionary.runtimeconfig.json
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\bin\Debug\net6.0\ListAndDictionary.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\bin\Debug\net6.0\ListAndDictionary.pdb
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ListAndDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ListAndDictionary.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ListAndDictionary.AssemblyInfo.cs
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ListAndDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ListAndDictionary.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\refint\ListAndDictionary.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ListAndDictionary.pdb
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ListAndDictionary.genruntimeconfig.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\ListAndDictionary-master\ListAndDictionary\obj\Debug\net6.0\ref\ListAndDictionary.dll
